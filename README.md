@@ -36,6 +36,7 @@ I am a **Bachelor III student in Information Systems**, specializing in **Softwa
 ![Laravel](https://img.shields.io/badge/LARAVEL-black?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/NODE.JS-black?style=for-the-badge&logo=nodedotjs)
 ![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python)
 
 ### 💠 Database
 ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql)
@@ -44,6 +45,9 @@ I am a **Bachelor III student in Information Systems**, specializing in **Softwa
 ### 💠 Data & Analysis
 ![Excel](https://img.shields.io/badge/EXCEL-black?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-black?style=for-the-badge&logo=powerbi)
+![Pandas](https://img.shields.io/badge/PANDAS-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NUMPY-black?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-black?style=for-the-badge&logo=python)
 
 ### 💠 Modeling & Design
 ![UML](https://img.shields.io/badge/UML-black?style=for-the-badge&logo=uml)
