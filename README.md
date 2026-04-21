@@ -25,7 +25,7 @@
 
 ### 〄 PROFIL
 
-Développeur logiciel en cycle **Bachelor III** à **Lomé Business School**, spécialisé en **génie logiciel** et **analyse de données**. Je conçois des systèmes fiables, structurés et orientés performance. Ma démarche allie rigueur technique, vision stratégique et passion pour l’innovation numérique.
+Développeur logiciel en cycle **Bachelor III** à **Lomé Business School**, spécialisé en **génie logiciel** et **analyse de données**. Je conçois des systèmes fiables, structurés et orientés performance. Ma démarche allie rigueur technique, vision stratégique et passion pour l'innovation numérique.
 
 
 ---
@@ -54,7 +54,7 @@ Formations **Microsoft Office** · Excel avancé · tableaux croisés dynamiques
 Projet **INTELO** · 🥈 2ᵉ place · serres agricoles intelligentes · IA & analyse de données
 
 **Testeur** — *Agence Togo Digitale* `Déc. 2024`  
-Département **Test Factory** · analyse d’anomalies · gestion de tickets · retours clients
+Département **Test Factory** · analyse d'anomalies · gestion de tickets · retours clients
 
 ---
 
@@ -79,16 +79,6 @@ Département **Test Factory** · analyse d’anomalies · gestion de tickets · 
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscarromeoaid&show_icons=true&theme=transparent&title_color=d4af37&icon_color=d4af37&text_color=c9b470&border_color=d4af37&bg_color=0a0a0a&hide_border=false&rank_icon=github&hide=prs,issues)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarromeoaid&layout=compact&theme=transparent&title_color=d4af37&text_color=c9b470&border_color=d4af37&bg_color=0a0a0a&hide_border=false)
-
-<br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Oscarromeoaid&theme=dark&background=0a0a0a&border=d4af37&stroke=d4af37&ring=d4af37&fire=ff9900&currStreakNum=d4af37&sideNums=c9b470&currStreakLabel=d4af37&sideLabels=9a8a60&dates=555555)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,50:111128,100:000000&height=120&section=footer&text=oscar.aidam@lomebs.com%20·%20oscarromeoaidam@gmail.com&fontSize=11&fontColor=9a8a60&fontAlignY=65&animation=fadeIn" width="100%"/>
 
