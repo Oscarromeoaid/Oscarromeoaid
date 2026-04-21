@@ -12,7 +12,10 @@
 
 <div align="center">
 
-| [![GitHub](https://img.shields.io/badge/⯎%20GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](https://github.com/Oscarromeoaid) | [![LBS Mail](https://img.shields.io/badge/⯎%20Professionnel-0d0d0d?style=for-the-badge&logo=microsoftoutlook&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](mailto:oscar.aidam@lomebs.com) | [![Gmail](https://img.shields.io/badge/⯎%20Personnel-0d0d0d?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](mailto:oscarromeoaidam@gmail.com) | [![Location](https://img.shields.io/badge/⯎%20Lomé-Togo-0d0d0d?style=for-the-badge&logo=googlemaps&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](#) |
+[![GitHub](https://img.shields.io/badge/⯎%20GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](https://github.com/Oscarromeoaid) &nbsp;&nbsp;
+[![LBS Mail](https://img.shields.io/badge/⯎%20Professionnel-0d0d0d?style=for-the-badge&logo=microsoftoutlook&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](mailto:oscar.aidam@lomebs.com) &nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/⯎%20Personnel-0d0d0d?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](mailto:oscarromeoaidam@gmail.com) &nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/⯎%20Lomé-Togo-0d0d0d?style=for-the-badge&logo=googlemaps&logoColor=d4af37&labelColor=0d0d0d&color=9a8a60)](#)
 
 </div>
 
@@ -26,68 +29,83 @@ Développeur logiciel de niveau **Bachelor III** à **Lomé Business School**, j
 
 Je transforme les besoins métier en solutions numériques robustes, maintenables et évolutives — avec une exigence constante sur la qualité architecturale.
 
+<br/>
+
 
 ---
 
 ## ⸻  DOMAINES D'EXCELLENCE  ⸻
 
-| **STRATE** | **TECHNOLOGIES MAÎTRISÉES** |
-|:---:|:---|
-| **FRONT‑END** | `HTML5` · `CSS3` · `JavaScript (ES6+)` · `Bootstrap` |
-| **BACK‑END** | `PHP` · `Laravel` · `Node.js` · `Python` · `TypeScript` · `Java` |
-| **PERSISTANCE** | `MySQL` · `SQL (requêtes complexes, optimisation)` |
-| **DATA INTELLIGENCE** | `Python (Pandas/NumPy)` · `Power BI` · `Excel (analyse avancée)` |
-| **INGÉNIERIE** | `Git` · `GitHub` · `Figma` · `Canva` · `VS Code` |
+**FRONT‑END**  
+`HTML5` · `CSS3` · `JavaScript (ES6+)` · `Bootstrap`
+
+**BACK‑END**  
+`PHP` · `Laravel` · `Node.js` · `Python` · `TypeScript` · `Java`
+
+**PERSISTANCE**  
+`MySQL` · `SQL`
+
+**DATA INTELLIGENCE**  
+`Python (Pandas/NumPy)` · `Power BI` · `Excel`
+
+**INGÉNIERIE & DESIGN**  
+`Git` · `GitHub` · `Figma` · `Canva` · `VS Code`
 
 ---
 
 ## ⸻  PARCOURS PROFESSIONNEL  ⸻
 
-### 🏆 Développeur Principal  
-*Hackathon La Piscine — Lomé Business School* · `Fév. 2026`
+**🏆 Développeur Principal** — *Hackathon La Piscine · Lomé Business School* — `Fév. 2026`
 
 > Conception et implémentation d'un protocole **P2P local chiffré** (AES-256-GCM, Ed25519) sans infrastructure centralisée.  
-> **Stack** : Node.js / TypeScript · **Livrables** : découverte automatique de pairs, transfert par chunks, API REST complète.
+> *Stack* : Node.js / TypeScript · *Livrables* : découverte automatique de pairs, transfert par chunks, API REST complète.
 
-### 🎓 Assistant Formateur  
-*Lomé Business School* · `Août 2024` · `Sept. 2025`
+<br/>
+
+**🎓 Assistant Formateur** — *Lomé Business School* — `Août 2024` · `Sept. 2025`
 
 > Animation de formations certifiantes sur **Microsoft Office** (Excel avancé, tableaux croisés dynamiques, visualisation de données).  
-> **Impact** : montée en compétences numérique de cohortes entières.
+> *Impact* : montée en compétences numérique de cohortes entières.
 
-### 💻 Développeur Web  
-*Lomé Business School* · `Juin 2024` · `Mai 2025`
+<br/>
+
+**💻 Développeur Web** — *Lomé Business School* — `Juin 2024` · `Mai 2025`
 
 > Projet **INTELO** — 🥈 **2ᵉ place** au concours interne.  
 > Solution pour serres agricoles intelligentes intégrant des briques d'**IA** et d'**analyse décisionnelle**.
 
-### 🔬 Analyste Test  
-*Agence Togo Digitale* · `Déc. 2024`
+<br/>
 
-> Membre de la **Test Factory** : analyse d'anomalies, gestion de tickets (bug tracking), consolidation des retours clients pour améliorer la qualité produit.
+**🔬 Analyste Test** — *Agence Togo Digitale* — `Déc. 2024`
+
+> Membre de la **Test Factory** : analyse d'anomalies, gestion de tickets, consolidation des retours clients pour améliorer la qualité produit.
 
 ---
 
 ## ⸻  RÉALISATIONS ACADÉMIQUES  ⸻
 
-| PROJET | TECHNOLOGIES | PÉRIMÈTRE FONCTIONNEL |
-|:---|:---:|:---|
-| **Restaurant Manager** | `Laravel` · `MySQL` | Réservations · Commandes · Livraisons |
-| **Stock Manager** | `PHP` · `SQL` | Suivi inventaire · Approvisionnements automatisés |
-| **Corporate Social Network** | `Laravel` · `JS` | Publications · Réactions · Gestion d'équipes |
-| **Registre Fanfare** | `PHP` · `MySQL` | Gestion administrative complète (membres, répertoire, événements) |
+**Restaurant Manager** · `Laravel` · `MySQL`  
+> Réservations, commandes, livraisons.
+
+**Stock Manager** · `PHP` · `SQL`  
+> Suivi inventaire, approvisionnements automatisés.
+
+**Corporate Social Network** · `Laravel` · `JS`  
+> Publications, réactions, gestion d'équipes.
+
+**Registre Fanfare** · `PHP` · `MySQL`  
+> Gestion administrative complète (membres, répertoire, événements).
 
 ---
 
-## ⸻  APTITUDES LINGUISTIQUES & CENTRES D'INTÉRÊT  ⸻
+## ⸻  APTITUDES & INTÉRÊTS  ⸻
 
-| | |
-|:---:|:---|
-| **FRANÇAIS** | Langue maternelle — maîtrise opérationnelle complète |
-| **ANGLAIS** | Niveau professionnel — technique, documentation, veille |
-| **MUSIQUE** | Classique · Blues · Jazz · Pratique instrumentale |
-| **CULTURE URBAINE** | Hip-Hop · Afro · Amapiano |
-| **ENCADREMENT** | Direction de fanfare · supervision artistique |
+**Français** — Langue maternelle  
+**English** — Niveau professionnel (technique, documentation, veille)
+
+**Musique** — Classique · Blues · Jazz · Pratique instrumentale  
+**Culture urbaine** — Hip-Hop · Afro · Amapiano  
+**Encadrement** — Direction de fanfare · Supervision artistique
 
 ---
 
